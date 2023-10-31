@@ -15,9 +15,8 @@ repos that have the project on them.
 6. 
 ## Project Description
 
-A description of the client scenario that you are modeling describing it in sufficient detail that
-makes sense in the context of your data model. This should be reflective of your conversation
-with your client
+This project involves the development of a relational database to streamline and manage the operations of Tennis Haven Club, a tennis facility based in Athens, Georgia. At the heart of the model is the Member entity, representing the diverse clientele we serve, from beginners to seasoned players. The club's facilities include various types of tennis courts (outdoor, indoor, clay), a pro shop, and an array of coaching options, all integral to our service offerings. These elements form key entities in our database, such as Court Bookings, Tournaments, Coaching Sessions, and Pro Shop Sales. Our aim is to accurately map the relationships between these entities, ensuring a comprehensive understanding of the club’s operations. Additionally, we're focused on creating realistic sample data to populate these entities, which will enable us to execute meaningful queries. These queries are intended to yield insights into member engagement, facility utilization, sales performance, and overall operational efficiency, guiding strategic decisions for the club's growth and success.
+
 ## Data Model
 
 Include a screenshot of the data model. An explanation of the data model including the
