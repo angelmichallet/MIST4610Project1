@@ -11,7 +11,7 @@ repos that have the project on them.
 2. Akhilesh Eloore [@akhileshe](https://github.com/akhileshe)
 3. Rishi Patel [@rp65029](https://github.com/rp65029)
 4. Daniel Zavala-palafox [@dzavalapalafox](https://github.com/dzavalapalafox)
-5. Penn Worden [pennworden](https://github.com/pennworden)
+5. Penn Worden [@pennworden](https://github.com/pennworden)
 6. Noah Martin [@noahhmartin03](https://github.com/noahhmartin03)
    
 ## Project Description
