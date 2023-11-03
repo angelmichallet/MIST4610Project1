@@ -90,13 +90,18 @@ sample matrix is shown in the project guidelines
 
 ### Query 1
 Query 1 is designed to identify all members who have registered to participate in a specific tournament, identified by the tournament ID 'tourney1'. It extracts a list that includes each participating member's unique ID, first name, and last name, alongside the tournament ID they are associated with. From a managerial perspective, this query is relevant because it helps the club's management to quickly ascertain who is taking part in one of their key events, the tournament with ID 'tourney1'. This information is crucial for organizing the event, including scheduling matches, preparing facilities, and communicating with participants. It also aids in gauging the popularity of the event and assists in future planning for similar events by providing insights into participant engagement.
+
 <img width="1211" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/d9497122-1942-4e9f-8344-4e343c7c1b89">
 
 ### Query 2
+Query 2 is designed to calculate and rank the profitability of items sold in the Pro Shop. It determines the individual return on investment (ROI) for each item by comparing the selling price to the purchase cost and expressing this as a percentage. It also calculates the total profit made from each item by considering the quantity sold. The results are then ordered to show the most profitable items at the top. For a manager, this information is useful as it highlights which items contribute most to the Pro Shop's earnings and helps in making informed decisions about inventory management, pricing strategies, and which items to promote or potentially discontinue based on their profitability. 
 
+<img width="1206" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/7df2769b-1147-486e-892b-30a65090f3e9"> 
 
-### Query 3
+### Query 3 
+Query 3 retrieves a list of first and last names of members who have attended coaching sessions that were conducted by a staff member named Una Ridler. It does this by first finding all session IDs associated with Una Ridler, and then matching those sessions with the attendees of those sessions to find the corresponding members. For a manager, this information is valuable as it provides insights into the clientele of a specific coach. As Una Ridler is a coach at the tennis club, understanding her reach and impact on the members can help assess her performance and popularity. It could also be used to schedule her sessions effectively, plan for future hiring based on the demand for her coaching, or offer targeted promotions to the members who attend her sessions. This level of detail helps the manager make informed decisions about staff scheduling, member engagement, and overall operational efficiency. 
 
+<img width="1199" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/d59f3be9-3999-4ec5-bea9-803f26f71fab">
 
 ### Query 4
 
