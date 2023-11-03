@@ -62,9 +62,38 @@ sample matrix is shown in the project guidelines
 Query 1 is designed to identify all members who have registered to participate in a specific tournament, identified by the tournament ID 'tourney1'. It extracts a list that includes each participating member's unique ID, first name, and last name, alongside the tournament ID they are associated with. From a managerial perspective, this query is relevant because it helps the club's management to quickly ascertain who is taking part in one of their key events, the tournament with ID 'tourney1'. This information is crucial for organizing the event, including scheduling matches, preparing facilities, and communicating with participants. It also aids in gauging the popularity of the event and assists in future planning for similar events by providing insights into participant engagement.
 <img width="1211" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/d9497122-1942-4e9f-8344-4e343c7c1b89">
 
+### Query 2
+
+
+### Query 3
+
+
+### Query 4
+
+
+### Query 5
+
+
+### Query 6
+
+
+### Query 7
+
+
+### Query 8
+
+
+### Query 9
+
+
+### Query 10
+
+
+
 
 ## Database Information
 Name of database: ns_F2339217Group3
+
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Qx(), where x is to be replaced by the query number
 
 
