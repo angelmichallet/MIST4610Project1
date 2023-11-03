@@ -42,9 +42,8 @@ sample matrix is shown in the project guidelines
 
 ### Query 1
 Query 1 is designed to identify all members who have registered to participate in a specific tournament, identified by the tournament ID 'tourney1'. It extracts a list that includes each participating member's unique ID, first name, and last name, alongside the tournament ID they are associated with. From a managerial perspective, this query is relevant because it helps the club's management to quickly ascertain who is taking part in one of their key events, the tournament with ID 'tourney1'. This information is crucial for organizing the event, including scheduling matches, preparing facilities, and communicating with participants. It also aids in gauging the popularity of the event and assists in future planning for similar events by providing insights into participant engagement.
+<img width="1211" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/d9497122-1942-4e9f-8344-4e343c7c1b89">
 
-<img width="800" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/bfaeb96b-d6ad-4755-a084-7dfa28036cf0">
-<img width="1202" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/b5792aea-e2a6-4aae-971e-8587d5c2ac19">
 
 ## Database Information
 The name of the database on the MySQL server. Each table should be populated with enough
