@@ -54,6 +54,24 @@ their roles. Please refer to sample present on ELC.
 
 <img width="716" alt="Screenshot 2023-11-03 at 6 55 44 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/a5b20677-8bfa-414e-aea8-9c07ba963c6c">
 
+<img width="705" alt="Screenshot 2023-11-03 at 6 57 18 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/484ac990-dd9f-4965-a12f-53cdfd9d5837">
+
+<img width="710" alt="Screenshot 2023-11-03 at 6 57 56 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/7ea7aef6-e333-4106-b441-53aba4ec11e2">
+
+<img width="719" alt="Screenshot 2023-11-03 at 6 58 47 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/65b8bbda-4a23-4e24-a679-8b10598ca2c6">
+
+<img width="706" alt="Screenshot 2023-11-03 at 6 59 31 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/088bc311-1fc8-4c1f-81ae-6d86022fe96a">
+
+<img width="717" alt="Screenshot 2023-11-03 at 6 59 52 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/a4b219a4-a09e-4801-8072-fdb65fa6f1cf">
+
+<img width="699" alt="Screenshot 2023-11-03 at 7 00 26 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/b5dd92ad-e4ef-43b3-a728-50b20fe5d5e3">
+
+<img width="700" alt="Screenshot 2023-11-03 at 7 00 54 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/ce9c176f-8d47-4383-81a8-4199dd4c3566">
+
+<img width="708" alt="Screenshot 2023-11-03 at 7 01 24 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/e53d3b21-6839-436e-8630-ac3aa9078b6b">
+
+<img width="707" alt="Screenshot 2023-11-03 at 7 01 55 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/4b78868f-7899-48b8-a863-74dc8c14e718">
+
 
 ## Queries
 Include a natural language description of the query and a justification as to why each query is
