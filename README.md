@@ -46,6 +46,15 @@ their roles. Please refer to sample present on ELC.
 
 <img width="715" alt="Screenshot 2023-11-03 at 6 52 49 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/ea793005-2646-4ea7-b841-74987cf94028">
 
+<img width="722" alt="Screenshot 2023-11-03 at 6 54 36 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/022e526a-684b-4740-b68d-025203da5add">
+
+<img width="722" alt="Screenshot 2023-11-03 at 6 54 56 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/20542c25-01f8-4ab7-bcc7-828c62f56886">
+
+<img width="720" alt="Screenshot 2023-11-03 at 6 55 18 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/64dc4920-bc18-43ec-87ab-7a1046325c9a">
+
+<img width="716" alt="Screenshot 2023-11-03 at 6 55 44 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/a5b20677-8bfa-414e-aea8-9c07ba963c6c">
+
+
 ## Queries
 Include a natural language description of the query and a justification as to why each query is
 relevant from a managerial perspective (why would a manager be interested in the query results).
