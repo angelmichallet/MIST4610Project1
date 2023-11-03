@@ -35,15 +35,11 @@ Events are the social fabric that weaves the members together, and their partici
 
 <img width="821" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/5489e4ce-1804-4c88-9ac3-7143ea11d140">
 
-To avoid unecessary clutter of screenshots, below is a link to our chat with our client (ChatGPT) to start the base of our data model. We required making additional appropriate changes and edits to the information provided by our client to clarify our entities, relationships, and attributes
+To avoid unecessary clutter of screenshots, below is a link to our chat with our client (ChatGPT) to start the base of our data model. We required making additional appropriate changes and edits to the information provided by our client to clarify our entities, relationships, and attributes.
 
 [Client Conversation](https://chat.openai.com/share/57c8fb61-4bba-411b-98e5-283420a0bc06)
 
 ## Data Dictionary
-The data dictionary explains the different columns in the different tables including data types and
-their roles. Please refer to sample present on ELC.
-
-
 <img width="715" alt="Screenshot 2023-11-03 at 6 52 49 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/ea793005-2646-4ea7-b841-74987cf94028">
 
 <img width="722" alt="Screenshot 2023-11-03 at 6 54 36 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/022e526a-684b-4740-b68d-025203da5add">
@@ -74,19 +70,8 @@ their roles. Please refer to sample present on ELC.
 
 
 ## Queries
-Include a natural language description of the query and a justification as to why each query is
-relevant from a managerial perspective (why would a manager be interested in the query results).
-Avoid having queries that are almost identical to one another. You may include screenshots of the
-query as well as the response of each query. You can also use the code markdown to highlight the
-SQL code and copy and paste the results into the file.
-To ensure the complexity of the queries some of the things that may be considered include
-multiple table join, subquery, correlated subquery, GROUP BY, GROUP BY with HAVING,
-multi condition WHERE, Built-in functions (e.g., AVG) or a calculated field, REGEXP, NOT
-EXISTS, and more.
-
-You may combine some of the preceding list of features into a single query (still have to provide
-10 queries). Indicate in matrix format in your report which features are covered in a query. A
-sample matrix is shown in the project guidelines
+### Matrix Table
+<img width="662" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/2e624506-0771-446a-a018-94a9d6ca5e0e">
 
 ### Query 1
 Query 1 is designed to identify all members who have registered to participate in a specific tournament, identified by the tournament ID 'tourney1'. It extracts a list that includes each participating member's unique ID, first name, and last name, alongside the tournament ID they are associated with. From a managerial perspective, this query is relevant because it helps the club's management to quickly ascertain who is taking part in one of their key events, the tournament with ID 'tourney1'. This information is crucial for organizing the event, including scheduling matches, preparing facilities, and communicating with participants. It also aids in gauging the popularity of the event and assists in future planning for similar events by providing insights into participant engagement.
