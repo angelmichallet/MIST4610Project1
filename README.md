@@ -15,13 +15,28 @@ repos that have the project on them.
 6. 
 ## Project Description
 
-This project involves the development of a relational database to streamline and manage the operations of Tennis Haven Club, a tennis facility based in Athens, Georgia. At the heart of the model is the Member entity, representing the diverse clientele we serve, from beginners to seasoned players. The club's facilities include various types of tennis courts (outdoor, indoor, clay), a pro shop, and an array of coaching options, all integral to our service offerings. These elements form key entities in our database, such as Court Bookings, Tournaments, Coaching Sessions, and Pro Shop Sales. Our aim is to accurately map the relationships between these entities, ensuring a comprehensive understanding of the club’s operations. Additionally, we're focused on creating realistic sample data to populate these entities, which will enable us to execute meaningful queries. These queries are intended to yield insights into member engagement, facility utilization, sales performance, and overall operational efficiency, guiding strategic decisions for the club's growth and success.
+This project involves the development of a relational database to streamline and manage the operations of a tennis facility based in Athens, Georgia. At the heart of the model is the Member entity, representing the diverse clientele we serve, from beginners to seasoned players. The club's facilities include various types of tennis courts (outdoor, indoor, clay), a pro shop, and an array of coaching options, all integral to our service offerings. These elements form key entities in our database, such as Court Bookings, Tournaments, Coaching Sessions, and Sales. Our aim is to accurately map the relationships between these entities, ensuring a comprehensive understanding of the club’s operations. Additionally, we're focused on creating realistic sample data to populate these entities, which will enable us to execute meaningful queries. These queries are intended to yield insights into member engagement, facility utilization, sales performance, and overall operational efficiency, guiding strategic decisions for the club's growth and success.
 
 ## Data Model
+Our tennis data model is intricately designed with the Member entity at its core, encapsulating the club's focus on its members and their engagement with various facilities and activities. This central role of the Member entity is underlined by several one-to-many relationships, as well as associative entities that connect Members to other critical aspects of the club's operations.
 
-Include a screenshot of the data model. An explanation of the data model including the
-relationships between the entities in natural English. Please include any screenshots of any of
-the substantive conversations you have had with your client that have informed the data model.
+Member interaction begins with the Booking associative entity, which details their Court reservations, linking each Member to their reserved times and courts in a one-to-many fashion. This ensures that our members have access to the facilities at their preferred times while allowing us to efficiently manage and allocate court space.
+
+These Members also partake in Tournaments, where their participation is documented through the Participant associative entity. This one-to-many relationship allows us to track which member is participating in which tournament, managing the competitive spirit of the club effectively.
+
+Beyond the courts, Members contribute to the club's economy through Sales. Each Sale they make is connected to the Pro Shop Items they purchase, a relationship detailed by the Sale Details associative entity. These links are essential for inventory control and provide insights into purchasing trends and member preferences.
+
+The ongoing upkeep of the Courts is vital to providing a top-tier playing experience. Each Court has a maintenance history, chronicled in the Maintenance Log, a one-to-many relationship that enables us to keep a close eye on the condition and availability of the facilities for members.
+
+Members' development in the sport is fostered through Coaching Sessions, where their attendance is marked by the Attendee associative entity. This one-to-many relationship highlights our commitment to personalized training and skill improvement, with each Member attending multiple sessions tailored to their development needs.
+
+Events are the social fabric that weaves the members together, and their participation in these events is tracked by the Event Participant associative entity between Event and Member. This relationship showcases the club's vibrant community life, with members engaging in a variety of events from social mixers to skill workshops. Each event is also thoughtfully planned and executed by multiple Staff members to provide the best member experience. Staff at the club are integral to the seamless operation of the facilities and services. They are also the custodians of the courts, ensuring that each court is adequately prepared and maintained, reflected in the one-to-many relationship between Staff and Court. Additionally, within the Staff members are those with coaching roles, illustrated in the one-to-many relationship of a staff member being able to teach a range of Coaching Sessions.
+
+<img width="821" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/5489e4ce-1804-4c88-9ac3-7143ea11d140">
+
+Below is a link to our chat with our client (ChatGPT) to start the base of our data model. We required making additional appropriate changes and edits to the information provided by out client to clarify our entities, relationships, and attributes.
+https://chat.openai.com/share/57c8fb61-4bba-411b-98e5-283420a0bc06
+
 ## Data Dictionary
 The data dictionary explains the different columns in the different tables including data types and
 their roles. Please refer to sample present on ELC.
