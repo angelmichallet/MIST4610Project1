@@ -114,10 +114,14 @@ Query 5 is designed to identify events at the tennis club that have a higher num
 <img width="1200" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/0ca3e174-ce3f-4b2f-8a84-c26f17bf803a">
 
 ### Query 6
+Query 6 summarizes and lists the total amount of money each member has spent on coaching sessions at the tennis club. It specifically focuses on members who have spent more than $20 in total. The results are organized by each member's first and last name and show a total of the fees paid for all the coaching sessions they've attended. The results are ordered from the highest spender to the lowest. This information is crucial to a manager for identifying the most engaged members, understanding revenue distribution from coaching sessions, and potentially recognizing members who might be candidates for loyalty programs or targeted promotions. It can also indicate the success of the coaching program and help in making decisions about resource allocation, pricing strategies, and planning additional services or offers.
 
+<img width="1210" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/cce1a183-95b0-4936-b99b-d392b285d1d6">
 
 ### Query 7
+Query 7 generates a list of unique members who joined the tennis club in the years 2020 or 2021 and have participated in one or more tournaments but have not made any purchases at the Pro Shop. For each member, it provides their ID, name, contact number, and the date they joined the club, as well as the total number of tournaments they have competed in. A manager can use this data because it identifies active and potentially loyal club members who are not engaging with one of the club's revenue streams, the Pro Shop. Understanding this can help the manager to investigate why these members have not made purchases—whether it's due to a lack of interest, awareness, or appeal of the products offered—and to develop targeted strategies to convert these active members into customers, thereby potentially increasing the club's sales and revenue.
 
+<img width="1214" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/27491cd9-b30b-4996-a795-26525b0ce000">
 
 ### Query 8
 
