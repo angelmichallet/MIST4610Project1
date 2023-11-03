@@ -106,7 +106,7 @@ Query 3 retrieves a list of first and last names of members who have attended co
 ### Query 4
 Query 4 identifies members of the tennis club who have not made any court bookings and have not purchased any tennis rackets from the pro shop, with the additional condition that their membership began before November 3, 2022. A manager may find be interested in this information because it helps to identify members who may not be fully engaged with the club's facilities and services. Understanding who these members are allows the management to target them with specific promotions or outreach efforts to increase their engagement and potentially generate more sales or bookings, ultimately aiming to enhance their club experience and retain their membership.
 
-<img width="1200" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/cd893490-aab4-4a05-b702-c3ddbd9abbd9">
+<img width="1202" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/d22c5b64-e47c-48b0-b9cd-18215cdf6f49">
 
 ### Query 5
 Query 5 is designed to identify events at the tennis club that have a higher number of participants than the average across all events. It lists each event by its ID and name, along with the count of participants for that event. The query then filters out any events where the participant count is not greater than the average participant count for all events. This information can be important to a manager to highlight which events are particularly successful in terms of attendance, potentially indicating their popularity or the effectiveness of their promotion. Understanding which events draw larger crowds can guide decisions on resource allocation, scheduling, and planning for future events to maximize engagement and profitability for the club. It can also help in identifying the types of events that resonate with the club's members, informing more strategic event planning and marketing efforts.
@@ -124,15 +124,19 @@ Query 7 generates a list of unique members who joined the tennis club in the yea
 <img width="1214" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/27491cd9-b30b-4996-a795-26525b0ce000">
 
 ### Query 8
+Query 8 identifies members of the Tennis Haven Club who have spent more than the average amount in their respective membership categories at the Pro Shop. It lists out these members by their first and last names, along with the sum of their expenditures. The purpose of the query is to highlight those members who are high spenders compared to others with the same type of membership. This information would be valuable for recognizing and possibly rewarding members who contribute significantly to the club's revenue through their purchases. Additionally, this could inform the club's marketing strategies, such as offering targeted promotions to encourage continued or increased spending among these key customers.
 
+<img width="1210" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/34c2bd8a-d4a8-4b54-940f-e2670ec0271f">
 
 ### Query 9
+Query 9 displays all the tournament winners’ names, the tournament they won, and the portion of the prize money they took home. Tournaments have multiple events, therefore any player who won 6 games is a winner of that tournament. The total prize money of the tournament is then split equally amongst the winners. To a manager, this information could be crucial for analyzing the outcomes of tournaments, particularly understanding how prize money is distributed among top-performing participants. It may help in financial planning, assessing the competitiveness of tournaments, and potentially in making decisions about future prize distributions or structuring of tournament brackets. This data could also be used in reporting to stakeholders about the outcomes of events and for promotional or motivational purposes within the club.
 
+<img width="1205" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/50e2f9fb-9db4-4b9e-abdf-fdef28d0b7f7">
 
 ### Query 10
+Query 10 retrieves a list of members who have either 'Platinum' or 'Gold' membership status, along with the dates they have made court bookings. It specifically filters out those members who have attended any coaching sessions, thus focusing only on those who are utilizing court bookings but not coaching services. The list is sorted by the members' last names. This data holds value to a manager because it identifies high-tier members (who typically contribute more to the club's revenue) that are not participating in coaching sessions. Understanding this pattern could help in tailoring specific marketing strategies or outreach programs to encourage these members to take advantage of the coaching services offered by the club. It's a way to increase engagement and potentially generate more revenue from existing high-value customers.
 
-
-
+<img width="1201" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/1b97dbbf-2e7b-4442-b7eb-7bdf41d60835">
 
 ## Database Information
 Name of database: ns_F2339217Group3
