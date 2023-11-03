@@ -88,8 +88,6 @@ You may combine some of the preceding list of features into a single query (stil
 10 queries). Indicate in matrix format in your report which features are covered in a query. A
 sample matrix is shown in the project guidelines
 
-![97CEA2A1-C478-44D5-B15D-D22D64B02FBB](https://github.com/angelmichallet/MIST4610Project1/assets/129079283/78ee8062-95f4-4e85-a913-f4c721081de0)
-
 ### Query 1
 Query 1 is designed to identify all members who have registered to participate in a specific tournament, identified by the tournament ID 'tourney1'. It extracts a list that includes each participating member's unique ID, first name, and last name, alongside the tournament ID they are associated with. From a managerial perspective, this query is relevant because it helps the club's management to quickly ascertain who is taking part in one of their key events, the tournament with ID 'tourney1'. This information is crucial for organizing the event, including scheduling matches, preparing facilities, and communicating with participants. It also aids in gauging the popularity of the event and assists in future planning for similar events by providing insights into participant engagement.
 
