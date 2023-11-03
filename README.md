@@ -91,10 +91,10 @@ sample matrix is shown in the project guidelines
 ### Query 1
 Query 1 is designed to identify all members who have registered to participate in a specific tournament, identified by the tournament ID 'tourney1'. It extracts a list that includes each participating member's unique ID, first name, and last name, alongside the tournament ID they are associated with. From a managerial perspective, this query is relevant because it helps the club's management to quickly ascertain who is taking part in one of their key events, the tournament with ID 'tourney1'. This information is crucial for organizing the event, including scheduling matches, preparing facilities, and communicating with participants. It also aids in gauging the popularity of the event and assists in future planning for similar events by providing insights into participant engagement.
 
-<img width="1211" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/d9497122-1942-4e9f-8344-4e343c7c1b89">
+<img width="1198" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/828c3dfc-9c5e-40ee-9284-a5df2674fc77">
 
 ### Query 2
-Query 2 is designed to calculate and rank the profitability of items sold in the Pro Shop. It determines the individual return on investment (ROI) for each item by comparing the selling price to the purchase cost and expressing this as a percentage. It also calculates the total profit made from each item by considering the quantity sold. The results are then ordered to show the most profitable items at the top. For a manager, this information is useful as it highlights which items contribute most to the Pro Shop's earnings and helps in making informed decisions about inventory management, pricing strategies, and which items to promote or potentially discontinue based on their profitability. 
+Query 2 is designed to calculate and rank the profitability of items sold in the Pro Shop. It determines the individual return on investment (ROI) for each item by comparing the selling price to the purchase cost and expressing this as a percentage. It also calculates the total profit made from each item by considering the quantity sold. The results are then ordered to show the most profitable items at the top. A manager may find this data useful as it highlights which items contribute most to the Pro Shop's earnings and helps in making informed decisions about inventory management, pricing strategies, and which items to promote or potentially discontinue based on their profitability. 
 
 <img width="1206" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/7df2769b-1147-486e-892b-30a65090f3e9"> 
 
@@ -104,10 +104,14 @@ Query 3 retrieves a list of first and last names of members who have attended co
 <img width="1199" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/d59f3be9-3999-4ec5-bea9-803f26f71fab">
 
 ### Query 4
+Query 4 identifies members of the tennis club who have not made any court bookings and have not purchased any tennis rackets from the pro shop, with the additional condition that their membership began before November 3, 2022. A manager may find be interested in this information because it helps to identify members who may not be fully engaged with the club's facilities and services. Understanding who these members are allows the management to target them with specific promotions or outreach efforts to increase their engagement and potentially generate more sales or bookings, ultimately aiming to enhance their club experience and retain their membership.
 
+<img width="1200" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/cd893490-aab4-4a05-b702-c3ddbd9abbd9">
 
 ### Query 5
+Query 5 is designed to identify events at the tennis club that have a higher number of participants than the average across all events. It lists each event by its ID and name, along with the count of participants for that event. The query then filters out any events where the participant count is not greater than the average participant count for all events. This information can be important to a manager to highlight which events are particularly successful in terms of attendance, potentially indicating their popularity or the effectiveness of their promotion. Understanding which events draw larger crowds can guide decisions on resource allocation, scheduling, and planning for future events to maximize engagement and profitability for the club. It can also help in identifying the types of events that resonate with the club's members, informing more strategic event planning and marketing efforts.
 
+<img width="1200" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/0ca3e174-ce3f-4b2f-8a84-c26f17bf803a">
 
 ### Query 6
 
