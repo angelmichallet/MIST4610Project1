@@ -39,6 +39,20 @@ EXISTS, and more.
 You may combine some of the preceding list of features into a single query (still have to provide
 10 queries). Indicate in matrix format in your report which features are covered in a query. A
 sample matrix is shown in the project guidelines
+
+
+DELIMITER $$
+CREATE PROCEDURE TP_Q1()
+BEGIN
+    SELECT Member.memberID, Member.memberFirstName, Member.memberLastName, Participant.tournamentID
+    FROM Participant
+    JOIN Member ON Participant.memberID = Member.memberID
+    WHERE Participant.tournamentID = 'tourney1';
+END$$
+DELIMITER ;
+
+CALL TP_Q1;
+
 ## Database Information
 The name of the database on the MySQL server. Each table should be populated with enough
 data so that the queries return a sufficient result set. All queries should be bookmarked through
