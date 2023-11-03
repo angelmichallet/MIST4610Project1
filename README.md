@@ -43,6 +43,9 @@ To avoid unecessary clutter of screenshots, below is a link to our chat with our
 The data dictionary explains the different columns in the different tables including data types and
 their roles. Please refer to sample present on ELC.
 
+
+<img width="715" alt="Screenshot 2023-11-03 at 6 52 49 PM" src="https://github.com/angelmichallet/MIST4610Project1/assets/132240342/ea793005-2646-4ea7-b841-74987cf94028">
+
 ## Queries
 Include a natural language description of the query and a justification as to why each query is
 relevant from a managerial perspective (why would a manager be interested in the query results).
