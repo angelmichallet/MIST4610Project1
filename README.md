@@ -56,6 +56,7 @@ DELIMITER ;
 CALL TP_Q1;
 
 <img width="800" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/bfaeb96b-d6ad-4755-a084-7dfa28036cf0">
+<img width="1202" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/b5792aea-e2a6-4aae-971e-8587d5c2ac19">
 
 ## Database Information
 The name of the database on the MySQL server. Each table should be populated with enough
