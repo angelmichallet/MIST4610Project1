@@ -34,7 +34,7 @@ Events are the social fabric that weaves the members together, and their partici
 
 <img width="821" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/5489e4ce-1804-4c88-9ac3-7143ea11d140">
 
-Below is a link to our chat with our client (ChatGPT) to start the base of our data model. We required making additional appropriate changes and edits to the information provided by out client to clarify our entities, relationships, and attributes.
+To avoid unecessary clutter of screenshots, below is a link to our chat with our client (ChatGPT) to start the base of our data model. We required making additional appropriate changes and edits to the information provided by out client to clarify our entities, relationships, and attributes.
 https://chat.openai.com/share/57c8fb61-4bba-411b-98e5-283420a0bc06
 
 ## Data Dictionary
