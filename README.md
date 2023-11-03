@@ -35,12 +35,14 @@ Events are the social fabric that weaves the members together, and their partici
 
 <img width="821" alt="image" src="https://github.com/angelmichallet/MIST4610Project1/assets/130924513/5489e4ce-1804-4c88-9ac3-7143ea11d140">
 
-To avoid unecessary clutter of screenshots, below is a link to our chat with our client (ChatGPT) to start the base of our data model. We required making additional appropriate changes and edits to the information provided by out client to clarify our entities, relationships, and attributes.
-https://chat.openai.com/share/57c8fb61-4bba-411b-98e5-283420a0bc06
+To avoid unecessary clutter of screenshots, below is a link to our chat with our client (ChatGPT) to start the base of our data model. We required making additional appropriate changes and edits to the information provided by out client to clarify our entities, relationships, and attributes
+
+[Client Conversation](https://chat.openai.com/share/57c8fb61-4bba-411b-98e5-283420a0bc06)
 
 ## Data Dictionary
 The data dictionary explains the different columns in the different tables including data types and
 their roles. Please refer to sample present on ELC.
+
 ## Queries
 Include a natural language description of the query and a justification as to why each query is
 relevant from a managerial perspective (why would a manager be interested in the query results).
@@ -62,7 +64,7 @@ Query 1 is designed to identify all members who have registered to participate i
 
 
 ## Database Information
-The name of the database on the MySQL server. Each table should be populated with enough
-data so that the queries return a sufficient result set. All queries should be bookmarked through
-the use of stored procedures (take a look at the example under Module 7) according to this
-format: TP_Qx (where x is to be replaced by the query number).
+Name of database: ns_F2339217Group3
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Qx(), where x is to be replaced by the query number
+
+
