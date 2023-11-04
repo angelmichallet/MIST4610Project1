@@ -7,7 +7,7 @@
 Include information about the name of the team based on the team name assigned to the team on
 ELC. Also include the names of all team members as well as links to their corresponding github
 repos that have the project on them.
-1. Angel Michallet [@angelmichallet](https://github.com/angelmichallet/MIST4610Project1))
+1. Angel Michallet [@angelmichallet]([https://github.com/angelmichallet/MIST4610Project1](https://github.com/angelmichallet/MIST4610Project1))
 2. Akhilesh Eloore [@akhileshe]([https://github.com/akhileshe](https://github.com/akhileshe/MIST4610Group3Project1))
 3. Rishi Patel [@rp65029]([https://github.com/rp65029](https://github.com/rp65029/MIST4610-Project-1))
 4. Daniel Zavala-palafox [@dzavalapalafox]([https://github.com/dzavalapalafox](https://github.com/dzavalapalafox/Project1_MIST4610))
